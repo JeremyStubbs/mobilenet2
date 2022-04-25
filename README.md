@@ -1,0 +1,1 @@
+This repo uses a pretrained model which can identify 1000 unique items in images. The output is given as probability of each item for an image.
