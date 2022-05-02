@@ -6,7 +6,7 @@ from labels import labels
 img = cv.imread("ski.jpg")
 inp = cv.resize(img, (224, 224))
 inp = inp.reshape(1, 224, 224, 3)
-print(inp.shape)
+
 
 model = tf.keras.applications.MobileNetV2()
 
