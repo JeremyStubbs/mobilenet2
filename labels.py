@@ -1,4 +1,4 @@
-["tench",
+labels = ["tench",
     "goldfish",
     "great white shark",
     "tiger shark",
