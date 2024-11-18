@@ -1,1 +1,1 @@
-This repo uses a pretrained model which can identify 1000 unique items in images. The output is given as probability of each item for an image.
+Mobilenet is pretrained image classification model which can identify 1000 unique items. Test.py outputs a probability for each item in the tensor in labels.py. The localization.ipynb jupyter notebook provides a heatmap for an identified image.
